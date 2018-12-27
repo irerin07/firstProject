@@ -54,6 +54,10 @@ body {
 div {
     display: block;
 }
+img {
+    width: 65%;
+    height: 500px;
+}
 
 #aside1 #main-menu ul li a {
     text-decoration: none;
